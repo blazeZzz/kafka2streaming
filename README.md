@@ -1,1 +1,2 @@
 # kafka2streaming
+sparkStreaming对接kafka的java实现版本。
